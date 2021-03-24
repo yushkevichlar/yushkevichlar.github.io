@@ -1,2 +1,2 @@
 # yushkevichlar.github.io
-Udemy course project
+Study projects
