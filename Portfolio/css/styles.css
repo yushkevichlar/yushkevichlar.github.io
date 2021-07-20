@@ -223,6 +223,14 @@ img {
 	animation: subtitle-animation 10s 1;
 }
 
+.circle__icon-link {
+	color: var(--first-color);
+}
+
+.circle__icon-link:hover {
+	color: var(--title-color);
+}
+
 .nav__menu {
 	display: flex;
 	justify-content: center;
