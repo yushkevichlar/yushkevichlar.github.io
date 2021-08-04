@@ -1,0 +1,69 @@
+.promo {
+	position: relative;
+	background: url(../../img/home-background.jpg) center (center / cover)
+		no-repeat;
+	min-height: 670px;
+	margin-top: 162px;
+	&__text {
+		display: flex;
+		flex-direction: column;
+		margin: 0 auto;
+		width: 1170px;
+		color: #fff;
+	}
+	&__title {
+		text-transform: uppercase;
+		margin-top: 130px;
+		height: 38px;
+		width: 228px;
+		background: $main-color;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-weight: 900;
+		font-size: 13px;
+		letter-spacing: 0.2em;
+	}
+	&__subtitle {
+		margin-top: 20px;
+		width: 650px;
+		height: 204px;
+		font-size: 60px;
+		font-weight: 900;
+		line-height: 68px;
+	}
+	&__descr {
+		margin-top: 20px;
+		width: 650px;
+		height: 112px;
+		font-weight: 300;
+		font-size: 22px;
+		line-height: 28px;
+	}
+	&__slider {
+		position: absolute;
+		width: 120px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		top: 618px;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		&-btn {
+			width: 11px;
+			height: 11px;
+			background: rgba(255, 255, 255, 0.1);
+			border: 1px solid #fff;
+			cursor: pointer;
+			&-active {
+				background: $main-color;
+				border-color: $main-color;
+			}
+			&:hover {
+				background: #fff;
+				border-color: #fff;
+				transition: 0.5s;
+			}
+		}
+	}
+}
