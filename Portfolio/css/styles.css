@@ -5,15 +5,15 @@
 
 @font-face {
 	font-family: MonumentExtended-Black;
-	src: url(/fonts/MonumentExtended-Black.woff2);
+	src: url(./fonts/MonumentExtended-Black.woff2);
 }
 @font-face {
 	font-family: MonumentExtended-Regular;
-	src: url(/fonts/MonumentExtended-Regular.woff2);
+	src: url(./fonts/MonumentExtended-Regular.woff2);
 }
 @font-face {
 	font-family: MonumentExtended-Light;
-	src: url(/fonts/MonumentExtended-Light.woff2);
+	src: url(./fonts/MonumentExtended-Light.woff2);
 }
 
 ::selection {
