@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio2/static/css/main.3ea50f3e.css",
-    "main.js": "/Portfolio2/static/js/main.09c803ba.js",
+    "main.js": "/Portfolio2/static/js/main.4e43b85c.js",
     "static/js/787.a2cb61a6.chunk.js": "/Portfolio2/static/js/787.a2cb61a6.chunk.js",
     "static/media/CV - Larisa Yushkevich.pdf": "/Portfolio2/static/media/CV - Larisa Yushkevich.7c59bc7059771f087131.pdf",
     "static/media/chat-app.webp": "/Portfolio2/static/media/chat-app.4f0a0cc5485f5da168c0.webp",
@@ -11,11 +11,11 @@
     "static/media/hero-img.webp": "/Portfolio2/static/media/hero-img.68a76ea6f5649c4908c6.webp",
     "index.html": "/Portfolio2/index.html",
     "main.3ea50f3e.css.map": "/Portfolio2/static/css/main.3ea50f3e.css.map",
-    "main.09c803ba.js.map": "/Portfolio2/static/js/main.09c803ba.js.map",
+    "main.4e43b85c.js.map": "/Portfolio2/static/js/main.4e43b85c.js.map",
     "787.a2cb61a6.chunk.js.map": "/Portfolio2/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ea50f3e.css",
-    "static/js/main.09c803ba.js"
+    "static/js/main.4e43b85c.js"
   ]
 }
